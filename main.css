@@ -1,0 +1,28 @@
+h1, .main {
+	vertical-align: center;
+	text-align: center;
+}
+
+
+h1 {
+	color:white;
+	font-family:Julius Sans One, sans-serif;
+}
+
+
+.main {
+	font-family: arial;
+}
+
+.wiki:visited {
+	text-decoration: none;
+	color:blue;
+}
+
+.wiki:hover {
+	color:red;
+}
+
+body {
+	background-color: #85FF5C;
+}
